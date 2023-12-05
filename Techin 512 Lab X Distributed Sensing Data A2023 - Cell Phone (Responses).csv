@@ -1,0 +1,515 @@
+Timestamp,Your Phone,Your Team No. (Example: 2-3),Quantity,Location,Measurement Value (db or lux)
+10/25/2023 22:04:04,iPhone (all models),1-4,Light Flux,breakfast table,56
+10/27/2023 9:36:26,iPhone (all models),1-14,Light Flux,breakfast table,354
+10/27/2023 16:55:24,iPhone (all models),1-8,Light Flux,breakfast table,109
+10/30/2023 13:02:39,iPhone (all models),1-15,Light Flux,breakfast table,52
+10/30/2023 13:02:53,iPhone (all models),1-15,Light Flux,breakfast table,52
+10/30/2023 13:03:07,iPhone (all models),1-15,Light Flux,breakfast table,29
+10/31/2023 23:55:10,iPhone (all models),1-16,Light Flux,breakfast table,155
+11/1/2023 16:51:09,iPhone (all models),2-8,Light Flux,breakfast table,47
+11/1/2023 20:30:29,iPhone (all models),1-7,Light Flux,breakfast table,158
+11/2/2023 1:33:19,iPhone (all models),2-5,Light Flux,breakfast table,205
+11/2/2023 20:45:55,iPhone (all models),1-3,Light Flux,breakfast table,660
+11/2/2023 23:28:45,iPhone (all models),1-9,Light Flux,breakfast table,249
+11/3/2023 1:51:59,iPhone (all models),1-6,Light Flux,breakfast table,75
+11/3/2023 9:40:43,iPhone (all models),2-13,Light Flux,breakfast table,21
+11/3/2023 9:42:43,Android (all models),2-3,Light Flux,breakfast table,421
+11/3/2023 9:42:59,Android (all models),2-3,Light Flux,breakfast table,413
+11/3/2023 9:43:23,Android (all models),2-3,Light Flux,breakfast table,410
+11/13/2023 22:09:53,Android (all models),2-7,Light Flux,breakfast table,31
+11/13/2023 22:10:58,Android (all models),2-7,Light Flux,breakfast table,24
+11/13/2023 22:11:12,Android (all models),2-7,Light Flux,breakfast table,54
+11/14/2023 14:44:33,iPhone (all models),1-1,Light Flux,breakfast table,266
+11/15/2023 16:15:40,iPhone (all models),1-13,Light Flux,breakfast table,314
+11/16/2023 11:27:57,iPhone (all models),2-9,Light Flux,breakfast table,385
+11/16/2023 12:14:38,iPhone (all models),2-6,Light Flux,breakfast table,630
+11/16/2023 13:12:51,iPhone (all models),2-6,Light Flux,breakfast table,67
+11/16/2023 14:34:52,iPhone (all models),1-5,Light Flux,breakfast table,337
+11/16/2023 15:38:06,iPhone (all models),1-11,Light Flux,breakfast table,45.2
+11/16/2023 16:35:25,iPhone (all models),2-1,Light Flux,breakfast table,264
+11/16/2023 18:03:47,iPhone (all models),1-5,Light Flux,breakfast table,80
+11/16/2023 18:03:58,iPhone (all models),1-5,Light Flux,breakfast table,81
+11/16/2023 18:04:07,iPhone (all models),1-5,Light Flux,breakfast table,82
+11/16/2023 18:55:47,iPhone (all models),2-2,Light Flux,breakfast table,262
+11/16/2023 18:56:12,iPhone (all models),2-2,Light Flux,breakfast table,235
+11/16/2023 18:56:25,iPhone (all models),2-2,Light Flux,breakfast table,261
+11/16/2023 19:00:56,iPhone (all models),2-2,Light Flux,breakfast table,60.3
+11/16/2023 23:43:36,Android (all models),2-9,Light Flux,breakfast table,132.8
+11/1/2023 16:54:53,iPhone (all models),2-8,Light Flux,GIX Woodshop: Drill (SPL Only from omerating position),86
+11/1/2023 16:55:33,iPhone (all models),2-8,Light Flux,GIX Woodshop: Drill (SPL Only from omerating position),194
+11/1/2023 13:03:40,iPhone (all models),2-5,Light Flux,"GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",247
+11/14/2023 15:00:00,iPhone (all models),1-1,Light Flux,GIX Woodshop: No machines (SPL only),175
+11/16/2023 15:42:35,iPhone (all models),1-11,Light Flux,GIX Woodshop: No machines (SPL only),170
+11/16/2023 18:59:42,iPhone (all models),2-2,Light Flux,GIX Woodshop: No machines (SPL only),161
+11/16/2023 19:00:00,iPhone (all models),2-2,Light Flux,GIX Woodshop: No machines (SPL only),165
+11/16/2023 19:00:17,iPhone (all models),2-2,Light Flux,GIX Woodshop: No machines (SPL only),217
+10/23/2023 19:32:09,iPhone (all models),1-7,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",257
+10/25/2023 22:06:43,iPhone (all models),1-4,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",39.3
+10/27/2023 9:39:49,iPhone (all models),1-14,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",318
+10/27/2023 12:01:00,Android (all models),1-16,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",368
+10/27/2023 12:01:37,Android (all models),1-16,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",210
+10/27/2023 16:57:48,iPhone (all models),1-8,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",233
+11/1/2023 16:54:11,iPhone (all models),2-8,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",82.2
+11/2/2023 13:07:30,iPhone (all models),1-15,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",298
+11/2/2023 13:07:45,iPhone (all models),1-15,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",218
+11/2/2023 13:08:10,iPhone (all models),1-15,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",354
+11/2/2023 20:47:25,iPhone (all models),1-3,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",723
+11/2/2023 23:30:54,Android (all models),1-9,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",215
+11/3/2023 9:42:13,iPhone (all models),2-13,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",365
+11/3/2023 12:33:35,Android (all models),2-3,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",183
+11/3/2023 12:33:51,Android (all models),2-3,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",185
+11/3/2023 12:34:23,Android (all models),2-3,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",190
+11/3/2023 13:24:03,iPhone (all models),1-6,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",215
+11/13/2023 22:20:39,Android (all models),2-7,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",266
+11/13/2023 22:20:53,Android (all models),2-7,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",228
+11/13/2023 22:21:17,Android (all models),2-7,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",199
+11/14/2023 15:00:28,iPhone (all models),1-1,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",189
+11/15/2023 16:17:02,iPhone (all models),1-13,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",200
+11/16/2023 12:17:33,iPhone (all models),2-6,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",479
+11/16/2023 13:14:49,iPhone (all models),2-6,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",376
+11/16/2023 14:20:51,iPhone (all models),2-11,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",669
+11/16/2023 14:37:07,iPhone (all models),1-5,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",241
+11/16/2023 16:38:25,iPhone (all models),2-1,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",197
+11/16/2023 23:46:01,Android (all models),2-9,Light Flux,"GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",42.8
+10/25/2023 15:13:47,Android (all models),2-5,Light Flux,In class (on writing desk),306
+10/25/2023 22:04:54,iPhone (all models),1-4,Light Flux,In class (on writing desk),236
+10/27/2023 9:36:47,iPhone (all models),1-14,Light Flux,In class (on writing desk),471
+10/27/2023 11:59:24,Android (all models),1-16,Light Flux,In class (on writing desk),506
+10/27/2023 12:00:26,Android (all models),1-16,Light Flux,In class (on writing desk),378
+10/27/2023 16:56:02,iPhone (all models),1-8,Light Flux,In class (on writing desk),182.7
+11/1/2023 12:46:02,iPhone (all models),2-5,Light Flux,In class (on writing desk),276
+11/1/2023 15:24:08,iPhone (all models),12,Light Flux,In class (on writing desk),183
+11/1/2023 16:06:47,iPhone (all models),1-12,Light Flux,In class (on writing desk),288
+11/1/2023 16:56:43,iPhone (all models),2-8,Light Flux,In class (on writing desk),106
+11/1/2023 20:27:11,iPhone (all models),1-7,Light Flux,In class (on writing desk),147
+11/2/2023 12:32:01,iPhone (all models),1-15,Light Flux,In class (on writing desk),231
+11/2/2023 12:32:16,iPhone (all models),1-15,Light Flux,In class (on writing desk),234
+11/2/2023 12:32:30,iPhone (all models),1-15,Light Flux,In class (on writing desk),252
+11/2/2023 20:46:10,iPhone (all models),1-3,Light Flux,In class (on writing desk),240
+11/2/2023 23:29:12,Android (all models),1-9,Light Flux,In class (on writing desk),574
+11/3/2023 1:53:14,iPhone (all models),1-6,Light Flux,In class (on writing desk),292
+11/3/2023 9:40:51,Android (all models),2-3,Light Flux,In class (on writing desk),495
+11/3/2023 9:41:06,iPhone (all models),2-13,Light Flux,In class (on writing desk),254
+11/3/2023 9:41:31,Android (all models),2-3,Light Flux,In class (on writing desk),501
+11/3/2023 9:42:16,Android (all models),2-3,Light Flux,In class (on writing desk),503
+11/13/2023 22:13:09,Android (all models),2-7,Light Flux,In class (on writing desk),555
+11/13/2023 22:13:24,Android (all models),2-7,Light Flux,In class (on writing desk),485
+11/13/2023 22:14:14,Android (all models),2-7,Light Flux,In class (on writing desk),309
+11/14/2023 14:45:42,iPhone (all models),1-1,Light Flux,In class (on writing desk),236
+11/15/2023 16:15:58,iPhone (all models),1-13,Light Flux,In class (on writing desk),192
+11/16/2023 11:28:13,iPhone (all models),2-9,Light Flux,In class (on writing desk),565
+11/16/2023 12:15:11,iPhone (all models),2-6,Light Flux,In class (on writing desk),403
+11/16/2023 13:13:10,iPhone (all models),2-6,Light Flux,In class (on writing desk),236
+11/16/2023 14:35:27,iPhone (all models),1-5,Light Flux,In class (on writing desk),247
+11/16/2023 14:42:33,iPhone (all models),2-11,Light Flux,In class (on writing desk),450
+11/16/2023 15:38:42,iPhone (all models),1-11,Light Flux,In class (on writing desk),50
+11/16/2023 16:35:41,iPhone (all models),2-1,Light Flux,In class (on writing desk),236
+11/16/2023 18:04:23,iPhone (all models),1-5,Light Flux,In class (on writing desk),402
+11/16/2023 18:07:27,iPhone (all models),1-5,Light Flux,In class (on writing desk),324
+11/16/2023 18:07:47,iPhone (all models),1-5,Light Flux,In class (on writing desk),312
+11/16/2023 18:56:43,iPhone (all models),2-2,Light Flux,In class (on writing desk),142
+11/16/2023 18:57:04,iPhone (all models),2-2,Light Flux,In class (on writing desk),125
+11/16/2023 18:57:24,iPhone (all models),2-2,Light Flux,In class (on writing desk),102
+11/16/2023 23:44:04,Android (all models),2-9,Light Flux,In class (on writing desk),60.4
+10/25/2023 22:06:17,iPhone (all models),1-4,Light Flux,In the car (if you have one),4
+10/27/2023 9:39:21,iPhone (all models),1-14,Light Flux,In the car (if you have one),4347
+10/27/2023 16:56:32,iPhone (all models),1-8,Light Flux,In the car (if you have one),12.7
+10/29/2023 15:03:09,iPhone (all models),1-12,Light Flux,In the car (if you have one),33.1
+10/29/2023 15:04:49,iPhone (all models),1-12,Light Flux,In the car (if you have one),326
+10/29/2023 15:05:08,iPhone (all models),2-3,Light Flux,In the car (if you have one),326
+10/31/2023 10:48:47,iPhone (all models),1-15,Light Flux,In the car (if you have one),82
+10/31/2023 10:49:04,iPhone (all models),1-15,Light Flux,In the car (if you have one),107
+10/31/2023 10:49:18,iPhone (all models),1-15,Light Flux,In the car (if you have one),82
+10/31/2023 17:59:19,iPhone (all models),1-16,Light Flux,In the car (if you have one),1
+11/1/2023 16:05:35,iPhone (all models),1-12,Light Flux,In the car (if you have one),12
+11/1/2023 23:25:06,iPhone (all models),2,Light Flux,In the car (if you have one),1
+11/2/2023 20:47:03,iPhone (all models),1-3,Light Flux,In the car (if you have one),890
+11/3/2023 1:53:29,iPhone (all models),1-6,Light Flux,In the car (if you have one),37
+11/3/2023 9:41:28,iPhone (all models),2-13,Light Flux,In the car (if you have one),1
+11/3/2023 13:04:03,Android (all models),2-3,Light Flux,In the car (if you have one),448
+11/3/2023 13:04:27,Android (all models),2-3,Light Flux,In the car (if you have one),436
+11/3/2023 13:30:09,iPhone (all models),1-9,Light Flux,In the car (if you have one),73
+11/13/2023 22:16:16,Android (all models),2-7,Light Flux,In the car (if you have one),46
+11/13/2023 22:16:32,Android (all models),2-7,Light Flux,In the car (if you have one),24
+11/13/2023 22:16:50,Android (all models),2-7,Light Flux,In the car (if you have one),49
+11/14/2023 14:59:30,iPhone (all models),1-1,Light Flux,In the car (if you have one),6
+11/16/2023 12:17:06,iPhone (all models),2-6,Light Flux,In the car (if you have one),833
+11/16/2023 13:14:14,iPhone (all models),2-6,Light Flux,In the car (if you have one),895
+11/16/2023 13:15:03,iPhone (all models),2-6,Light Flux,In the car (if you have one),895
+11/16/2023 14:35:50,iPhone (all models),1-5,Light Flux,In the car (if you have one),361
+11/16/2023 15:41:55,iPhone (all models),1-11,Light Flux,In the car (if you have one),4
+11/16/2023 16:37:39,iPhone (all models),2-1,Light Flux,In the car (if you have one),179
+11/16/2023 18:57:52,iPhone (all models),2-2,Light Flux,In the car (if you have one),142
+11/16/2023 18:58:11,iPhone (all models),2-2,Light Flux,In the car (if you have one),201
+11/16/2023 18:58:28,iPhone (all models),2-2,Light Flux,In the car (if you have one),437
+11/16/2023 23:20:31,iPhone (all models),1-5,Light Flux,In the car (if you have one),956
+11/16/2023 23:20:43,iPhone (all models),1-5,Light Flux,In the car (if you have one),4883
+11/16/2023 23:20:54,iPhone (all models),1-5,Light Flux,In the car (if you have one),890
+10/25/2023 22:05:47,iPhone (all models),1-4,Light Flux,Outdoors by GIX: Cloudy,442
+10/27/2023 9:38:59,iPhone (all models),1-14,Light Flux,Outdoors by GIX: Cloudy,480
+10/31/2023 10:42:08,iPhone (all models),1-15,Light Flux,Outdoors by GIX: Cloudy,2314
+10/31/2023 10:42:24,iPhone (all models),1-15,Light Flux,Outdoors by GIX: Cloudy,1830
+10/31/2023 10:42:43,iPhone (all models),1-15,Light Flux,Outdoors by GIX: Cloudy,1307
+11/1/2023 16:57:25,iPhone (all models),2-8,Light Flux,Outdoors by GIX: Cloudy,82.2
+11/2/2023 13:48:28,iPhone (all models),2-5,Light Flux,Outdoors by GIX: Cloudy,429
+11/2/2023 20:46:47,iPhone (all models),1-3,Light Flux,Outdoors by GIX: Cloudy,2000
+11/2/2023 23:30:19,Android (all models),1-9,Light Flux,Outdoors by GIX: Cloudy,6043
+11/13/2023 20:46:50,iPhone (all models),1-10,Light Flux,Outdoors by GIX: Cloudy,4524
+11/14/2023 14:58:54,iPhone (all models),1-1,Light Flux,Outdoors by GIX: Cloudy,288
+11/16/2023 12:16:43,iPhone (all models),2-6,Light Flux,Outdoors by GIX: Cloudy,1258
+11/16/2023 13:13:58,iPhone (all models),2-6,Light Flux,Outdoors by GIX: Cloudy,544
+11/16/2023 16:36:48,iPhone (all models),2-1,Light Flux,Outdoors by GIX: Cloudy,234
+11/16/2023 16:37:02,iPhone (all models),2-1,Light Flux,Outdoors by GIX: Cloudy,3
+11/16/2023 23:45:30,Android (all models),2-9,Light Flux,Outdoors by GIX: Cloudy,784.6
+10/25/2023 22:05:27,iPhone (all models),1-4,Light Flux,Outdoors by GIX: Sunny,20132
+10/27/2023 9:38:26,iPhone (all models),1-14,Light Flux,Outdoors by GIX: Sunny,26766
+10/27/2023 12:23:35,Android (all models),1-16,Light Flux,Outdoors by GIX: Sunny,14251
+10/27/2023 12:24:04,Android (all models),1-16,Light Flux,Outdoors by GIX: Sunny,16676
+10/27/2023 12:24:20,Android (all models),1-16,Light Flux,Outdoors by GIX: Sunny,21940
+10/27/2023 16:57:19,iPhone (all models),1-8,Light Flux,Outdoors by GIX: Sunny,838.7
+10/30/2023 12:53:52,iPhone (all models),1-15,Light Flux,Outdoors by GIX: Sunny,5428
+10/30/2023 12:54:08,iPhone (all models),1-15,Light Flux,Outdoors by GIX: Sunny,4979
+10/30/2023 12:54:29,iPhone (all models),1-15,Light Flux,Outdoors by GIX: Sunny,2710
+11/2/2023 20:46:33,iPhone (all models),1-3,Light Flux,Outdoors by GIX: Sunny,20694
+11/2/2023 23:29:57,Android (all models),1-9,Light Flux,Outdoors by GIX: Sunny,55359
+11/3/2023 9:41:49,iPhone (all models),2-13,Light Flux,Outdoors by GIX: Sunny,2829
+11/13/2023 20:46:19,iPhone (all models),1-10,Light Flux,Outdoors by GIX: Sunny,74000
+11/13/2023 22:18:07,Android (all models),2-7,Light Flux,Outdoors by GIX: Sunny,13948
+11/13/2023 22:18:32,Android (all models),2-7,Light Flux,Outdoors by GIX: Sunny,11728
+11/13/2023 22:18:46,Android (all models),2-7,Light Flux,Outdoors by GIX: Sunny,9274
+11/14/2023 14:46:43,iPhone (all models),1-1,Light Flux,Outdoors by GIX: Sunny,352
+11/15/2023 16:16:41,iPhone (all models),1-13,Light Flux,Outdoors by GIX: Sunny,1215
+11/16/2023 11:28:55,iPhone (all models),2-9,Light Flux,Outdoors by GIX: Sunny,23600
+11/16/2023 12:16:24,iPhone (all models),2-6,Light Flux,Outdoors by GIX: Sunny,24067
+11/16/2023 13:13:42,iPhone (all models),2-6,Light Flux,Outdoors by GIX: Sunny,1204
+11/16/2023 14:36:30,iPhone (all models),1-5,Light Flux,Outdoors by GIX: Sunny,1324
+11/16/2023 14:53:58,iPhone (all models),2-11,Light Flux,Outdoors by GIX: Sunny,507.7
+11/16/2023 15:39:53,iPhone (all models),1-11,Light Flux,Outdoors by GIX: Sunny,593
+11/16/2023 16:36:31,iPhone (all models),2-1,Light Flux,Outdoors by GIX: Sunny,344
+11/16/2023 18:28:44,iPhone (all models),1-5,Light Flux,Outdoors by GIX: Sunny,9087
+11/16/2023 18:28:58,iPhone (all models),1-5,Light Flux,Outdoors by GIX: Sunny,11807
+11/16/2023 18:58:53,iPhone (all models),2-2,Light Flux,Outdoors by GIX: Sunny,2374
+11/16/2023 18:59:08,iPhone (all models),2-2,Light Flux,Outdoors by GIX: Sunny,3047
+11/16/2023 18:59:25,iPhone (all models),2-2,Light Flux,Outdoors by GIX: Sunny,2003
+11/16/2023 23:45:14,Android (all models),2-9,Light Flux,Outdoors by GIX: Sunny,866.2
+9/21/2023 11:03:30,iPhone (all models),1-20,Light Flux,your bed at night,15
+9/21/2023 11:05:24,iPhone (all models),1-20,Light Flux,your bed at night,10
+10/25/2023 0:15:39,Android (all models),2-5,Light Flux,your bed at night,9.2
+10/25/2023 22:03:29,iPhone (all models),1-4,Light Flux,your bed at night,1
+10/27/2023 9:36:05,iPhone (all models),1-14,Light Flux,your bed at night,49
+10/30/2023 12:55:57,iPhone (all models),1-15,Light Flux,your bed at night,1
+10/30/2023 12:56:16,iPhone (all models),1-15,Light Flux,your bed at night,6
+10/30/2023 12:56:29,iPhone (all models),1-15,Light Flux,your bed at night,0.1
+10/31/2023 23:53:54,iPhone (all models),1-16,Light Flux,your bed at night,56
+11/1/2023 10:26:17,iPhone (all models),1-8,Light Flux,your bed at night,2
+11/1/2023 16:47:11,iPhone (all models),2-8,Light Flux,your bed at night,10.9
+11/1/2023 20:28:43,iPhone (all models),1-7,Light Flux,your bed at night,1
+11/2/2023 1:33:47,iPhone (all models),2-5,Light Flux,your bed at night,0.1
+11/2/2023 20:45:37,iPhone (all models),1-3,Light Flux,your bed at night,40
+11/2/2023 23:28:29,iPhone (all models),1-9,Light Flux,your bed at night,27
+11/3/2023 1:51:06,iPhone (all models),1-6,Light Flux,your bed at night,4
+11/3/2023 1:53:57,iPhone (all models),1-6,Light Flux,your bed at night,40
+11/3/2023 9:40:25,iPhone (all models),2-13,Light Flux,your bed at night,1
+11/13/2023 22:07:13,Android (all models),2-7,Light Flux,your bed at night,23
+11/13/2023 22:07:30,Android (all models),2-7,Light Flux,your bed at night,18
+11/13/2023 22:07:50,Android (all models),2-7,Light Flux,your bed at night,21
+11/14/2023 14:42:31,iPhone (all models),1-1,Light Flux,your bed at night,0.1
+11/15/2023 16:15:22,iPhone (all models),1-13,Light Flux,your bed at night,48
+11/16/2023 11:27:38,iPhone (all models),2-9,Light Flux,your bed at night,26.3
+11/16/2023 12:14:25,iPhone (all models),2-6,Light Flux,your bed at night,25
+11/16/2023 13:12:32,iPhone (all models),2-6,Light Flux,your bed at night,8
+11/16/2023 14:34:34,iPhone (all models),1-5,Light Flux,your bed at night,4
+11/16/2023 15:37:26,iPhone (all models),1-11,Light Flux,your bed at night,2.7
+11/16/2023 18:01:48,iPhone (all models),1-5,Light Flux,your bed at night,100
+11/16/2023 18:03:16,iPhone (all models),1-5,Light Flux,your bed at night,15
+11/16/2023 18:03:27,iPhone (all models),1-5,Light Flux,your bed at night,16
+11/16/2023 18:55:05,iPhone (all models),2-2,Light Flux,your bed at night,20
+11/16/2023 18:55:18,iPhone (all models),2-2,Light Flux,your bed at night,18
+11/16/2023 18:55:31,iPhone (all models),2-2,Light Flux,your bed at night,2
+11/16/2023 19:00:33,iPhone (all models),2-2,Light Flux,your bed at night,30.9
+11/16/2023 23:43:16,Android (all models),2-9,Light Flux,your bed at night,2.18
+10/25/2023 7:37:08,Android (all models),2-5,Light Flux,Your desk at home,4
+10/25/2023 22:05:11,iPhone (all models),1-4,Light Flux,Your desk at home,81
+10/27/2023 9:37:08,iPhone (all models),1-14,Light Flux,Your desk at home,354
+10/29/2023 23:45:29,iPhone (all models),1-12,Light Flux,Your desk at home,77
+10/30/2023 12:42:55,iPhone (all models),1-15,Light Flux,Your desk at home,145
+10/30/2023 12:43:14,iPhone (all models),1-15,Light Flux,Your desk at home,52
+10/30/2023 12:43:30,iPhone (all models),1-15,Light Flux,Your desk at home,87
+10/31/2023 23:56:22,iPhone (all models),1-16,Light Flux,Your desk at home,217
+11/1/2023 16:05:11,iPhone (all models),1-12,Light Flux,Your desk at home,45
+11/1/2023 16:49:50,iPhone (all models),12,Light Flux,Your desk at home,33.4
+11/1/2023 16:50:57,iPhone (all models),12,Light Flux,Your desk at home,33
+11/1/2023 16:52:02,iPhone (all models),2-8,Light Flux,Your desk at home,137
+11/1/2023 16:52:47,iPhone (all models),2-8,Light Flux,Your desk at home,127
+11/1/2023 23:23:35,iPhone (all models),2,Light Flux,Your desk at home,120
+11/2/2023 1:32:18,iPhone (all models),2-5,Light Flux,Your desk at home,141
+11/2/2023 23:29:35,iPhone (all models),1-9,Light Flux,Your desk at home,338
+11/13/2023 20:45:44,iPhone (all models),1-10,Light Flux,Your desk at home,788
+11/14/2023 14:46:10,iPhone (all models),1-1,Light Flux,Your desk at home,242
+11/15/2023 16:16:22,iPhone (all models),1-13,Light Flux,Your desk at home,290
+11/16/2023 11:28:29,iPhone (all models),2-9,Light Flux,Your desk at home,430
+11/16/2023 12:15:55,iPhone (all models),2-6,Light Flux,Your desk at home,298
+11/16/2023 13:13:25,iPhone (all models),2-6,Light Flux,Your desk at home,297
+11/16/2023 14:37:57,iPhone (all models),1-5,Light Flux,Your desk at home,309
+11/16/2023 15:39:20,iPhone (all models),1-11,Light Flux,Your desk at home,73
+11/16/2023 16:35:56,iPhone (all models),2-1,Light Flux,Your desk at home,244
+11/16/2023 23:44:51,Android (all models),2-9,Light Flux,Your desk at home,102.4
+10/24/2023 9:41:42,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",breakfast table,57
+10/25/2023 22:07:22,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",breakfast table,61.9
+10/27/2023 9:40:43,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",breakfast table,43.1
+10/27/2023 16:58:18,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)",breakfast table,63
+10/31/2023 23:55:34,iPhone (all models),1-16,"Sound pressure level, SPL(dBA)",breakfast table,64.5
+11/1/2023 17:00:30,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)",breakfast table,33.8
+11/1/2023 20:30:44,iPhone (all models),1-7,"Sound pressure level, SPL(dBA)",breakfast table,68
+11/2/2023 1:37:27,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)",breakfast table,45.6
+11/2/2023 17:23:50,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",breakfast table,43.7
+11/2/2023 23:35:15,iPhone (all models),1-9,"Sound pressure level, SPL(dBA)",breakfast table,64.8
+11/3/2023 1:54:43,iPhone (all models),1-6,"Sound pressure level, SPL(dBA)",breakfast table,39.6
+11/3/2023 11:48:41,Android (all models),2-3,"Sound pressure level, SPL(dBA)",breakfast table,42.8
+11/4/2023 18:15:52,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",breakfast table,36.4
+11/4/2023 23:02:58,Android (all models),2-3,"Sound pressure level, SPL(dBA)",breakfast table,45.4
+11/6/2023 0:59:12,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",breakfast table,37.3
+11/13/2023 14:05:51,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",breakfast table,52
+11/13/2023 22:25:04,Android (all models),2-7,"Sound pressure level, SPL(dBA)",breakfast table,32.9
+11/13/2023 22:25:27,Android (all models),2-7,"Sound pressure level, SPL(dBA)",breakfast table,30.9
+11/13/2023 22:25:48,Android (all models),2-7,"Sound pressure level, SPL(dBA)",breakfast table,31.5
+11/14/2023 14:44:47,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",breakfast table,62.8
+11/15/2023 16:18:55,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)",breakfast table,48.7
+11/16/2023 13:27:48,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",breakfast table,56.2
+11/16/2023 15:38:22,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)",breakfast table,48.1
+11/16/2023 16:30:23,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",breakfast table,31.3
+11/16/2023 23:21:27,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)",breakfast table,52.5
+11/16/2023 23:50:17,Android (all models),2-9,"Sound pressure level, SPL(dBA)",breakfast table,44.7
+10/23/2023 19:33:39,iPhone (all models),1-7,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),61.5
+10/25/2023 22:11:01,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),69.1
+10/26/2023 16:17:54,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),80.5
+10/27/2023 9:44:34,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),71.5
+10/27/2023 11:58:38,Android (all models),1-16,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),76.7
+10/27/2023 17:00:00,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),66.4
+11/1/2023 17:03:53,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),85.6
+11/1/2023 23:27:11,iPhone (all models),2,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),69.7
+11/2/2023 13:13:02,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),73.6
+11/2/2023 13:27:22,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),79.5
+11/2/2023 17:26:06,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),74.6
+11/2/2023 23:37:54,Android (all models),1-9,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),77
+11/3/2023 13:24:32,iPhone (all models),1-6,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),70.1
+11/4/2023 19:30:38,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),74.7
+11/6/2023 1:04:52,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),70.2
+11/13/2023 14:13:53,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),130
+11/13/2023 22:35:41,Android (all models),2-7,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),59.9
+11/14/2023 15:01:13,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),75.2
+11/15/2023 16:21:51,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),70.4
+11/16/2023 13:30:53,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),74.5
+11/16/2023 15:43:47,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),69.2
+11/16/2023 16:34:21,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),82
+11/16/2023 19:03:03,iPhone (all models),2-2,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),94.5
+11/16/2023 23:22:57,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),84.6
+11/16/2023 23:55:25,Android (all models),2-9,"Sound pressure level, SPL(dBA)",GIX Woodshop: Drill (SPL Only from omerating position),77.5
+10/23/2023 19:33:07,iPhone (all models),1-7,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",77.3
+10/25/2023 22:10:47,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",82.6
+10/26/2023 14:21:28,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",82.5
+10/27/2023 9:44:13,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",82.3
+10/27/2023 11:58:00,Android (all models),1-16,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",74
+10/27/2023 16:59:47,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",75
+11/1/2023 17:03:05,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",85.6
+11/1/2023 23:26:21,iPhone (all models),2,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",82.3
+11/2/2023 13:12:26,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",81.5
+11/2/2023 13:27:06,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",88.5
+11/2/2023 17:25:51,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",86.5
+11/2/2023 23:37:37,Android (all models),1-9,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",85
+11/3/2023 13:24:18,iPhone (all models),1-6,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",79.4
+11/4/2023 19:30:19,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",73.3
+11/6/2023 1:04:27,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",78.2
+11/13/2023 22:34:56,Android (all models),2-7,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",83.2
+11/14/2023 15:01:02,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",84.5
+11/15/2023 16:21:31,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",79.5
+11/16/2023 13:30:39,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",85.5
+11/16/2023 15:43:28,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",77.7
+11/16/2023 16:33:37,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",83.2
+11/16/2023 19:02:47,iPhone (all models),2-2,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",86.5
+11/16/2023 23:22:45,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",97.5
+11/16/2023 23:55:08,Android (all models),2-9,"Sound pressure level, SPL(dBA)","GIX Woodshop: Dust Collector  (SPL Only, measure from table saw operating pos.)",83.5
+10/23/2023 19:31:39,iPhone (all models),1-7,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),43.7
+10/25/2023 22:10:16,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),44.4
+10/26/2023 14:13:40,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),54.6
+10/26/2023 16:17:13,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),50.8
+10/27/2023 9:43:30,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),42.2
+10/31/2023 18:00:19,iPhone (all models),1-16,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),40
+11/2/2023 13:11:45,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),33.7
+11/2/2023 17:25:15,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),49.4
+11/2/2023 23:36:45,Android (all models),1-9,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),45
+11/4/2023 18:22:35,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),34.7
+11/6/2023 1:03:13,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),47.3
+11/13/2023 14:11:28,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),46.7
+11/14/2023 15:00:11,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),42.2
+11/16/2023 13:29:57,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),42.4
+11/16/2023 16:33:06,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),43.2
+11/16/2023 23:54:49,Android (all models),2-9,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),66
+11/16/2023 23:55:43,Android (all models),2-9,"Sound pressure level, SPL(dBA)",GIX Woodshop: No machines (SPL only),69
+10/23/2023 19:32:34,iPhone (all models),1-7,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",78.7
+10/25/2023 22:10:35,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",84
+10/27/2023 9:43:53,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",80.5
+10/27/2023 11:56:55,Android (all models),1-16,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",78
+10/27/2023 12:01:21,Android (all models),1-16,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",308
+10/27/2023 16:59:32,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",78.4
+11/1/2023 17:02:29,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",82.2
+11/1/2023 23:25:54,iPhone (all models),2,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",85.4
+11/2/2023 13:12:44,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",85.2
+11/2/2023 13:26:47,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",78.3
+11/2/2023 17:25:30,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",75.2
+11/2/2023 23:37:01,Android (all models),1-9,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",79
+11/3/2023 13:23:00,iPhone (all models),1-6,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",215
+11/3/2023 13:23:42,iPhone (all models),1-6,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",78.4
+11/4/2023 19:29:31,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",81.3
+11/6/2023 1:03:41,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",80
+11/13/2023 14:13:18,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",97
+11/13/2023 22:23:32,Android (all models),2-7,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",37
+11/13/2023 22:34:21,Android (all models),2-7,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",63.3
+11/14/2023 15:00:43,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",74.7
+11/15/2023 16:20:55,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",82.4
+11/16/2023 13:30:22,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",74.3
+11/16/2023 14:32:59,iPhone (all models),2-11,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",66.65
+11/16/2023 15:42:50,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",37.7
+11/16/2023 15:43:08,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",73.3
+11/16/2023 16:33:22,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",67.3
+11/16/2023 19:02:29,iPhone (all models),2-2,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",77.6
+11/16/2023 23:22:34,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)","GIX Woodshop: Table Saw cutting (lux on table top, SPL from operating position)",75.8
+10/24/2023 13:40:56,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",In class (on writing desk),50.2
+10/25/2023 22:08:24,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",In class (on writing desk),44.1
+10/27/2023 9:41:02,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",In class (on writing desk),52.3
+10/27/2023 11:56:22,Android (all models),1-16,"Sound pressure level, SPL(dBA)",In class (on writing desk),66.7
+10/27/2023 11:59:39,Android (all models),1-16,"Sound pressure level, SPL(dBA)",In class (on writing desk),423
+10/27/2023 16:58:34,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)",In class (on writing desk),81
+11/1/2023 12:46:40,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)",In class (on writing desk),54.1
+11/1/2023 15:19:01,iPhone (all models),12,"Sound pressure level, SPL(dBA)",In class (on writing desk),55.2
+11/1/2023 16:08:01,iPhone (all models),1-12,"Sound pressure level, SPL(dBA)",In class (on writing desk),66.4
+11/1/2023 16:58:38,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)",In class (on writing desk),56
+11/1/2023 20:31:13,iPhone (all models),1-7,"Sound pressure level, SPL(dBA)",In class (on writing desk),72
+11/2/2023 17:24:04,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",In class (on writing desk),56
+11/2/2023 23:35:35,Android (all models),1-9,"Sound pressure level, SPL(dBA)",In class (on writing desk),68
+11/3/2023 1:55:05,iPhone (all models),1-6,"Sound pressure level, SPL(dBA)",In class (on writing desk),40
+11/4/2023 18:17:29,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",In class (on writing desk),42.3
+11/4/2023 23:04:04,Android (all models),2-3,"Sound pressure level, SPL(dBA)",In class (on writing desk),55
+11/6/2023 1:00:48,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",In class (on writing desk),62.6
+11/13/2023 14:06:51,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",In class (on writing desk),50
+11/13/2023 22:27:03,Android (all models),2-7,"Sound pressure level, SPL(dBA)",In class (on writing desk),51.7
+11/13/2023 22:27:22,Android (all models),2-7,"Sound pressure level, SPL(dBA)",In class (on writing desk),59.9
+11/13/2023 22:27:58,Android (all models),2-7,"Sound pressure level, SPL(dBA)",In class (on writing desk),56.6
+11/14/2023 14:45:54,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",In class (on writing desk),44.3
+11/15/2023 16:19:35,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)",In class (on writing desk),57.4
+11/16/2023 13:28:12,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",In class (on writing desk),65.6
+11/16/2023 14:43:24,iPhone (all models),2-11,"Sound pressure level, SPL(dBA)",In class (on writing desk),58.7
+11/16/2023 15:38:59,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)",In class (on writing desk),64.3
+11/16/2023 16:30:48,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",In class (on writing desk),61.6
+11/16/2023 16:31:05,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",In class (on writing desk),44.4
+11/16/2023 19:01:13,iPhone (all models),2-2,"Sound pressure level, SPL(dBA)",In class (on writing desk),54.5
+11/16/2023 23:21:40,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)",In class (on writing desk),78.5
+11/16/2023 23:50:45,Android (all models),2-9,"Sound pressure level, SPL(dBA)",In class (on writing desk),61
+10/25/2023 22:09:50,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",In the car (if you have one),28.2
+10/26/2023 16:18:58,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",In the car (if you have one),61.3
+10/27/2023 9:43:09,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",In the car (if you have one),53.1
+10/27/2023 16:59:10,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)",In the car (if you have one),59
+10/29/2023 15:03:44,iPhone (all models),2-3,"Sound pressure level, SPL(dBA)",In the car (if you have one),32.7
+10/30/2023 10:59:49,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",In the car (if you have one),54
+10/31/2023 17:59:35,iPhone (all models),1-16,"Sound pressure level, SPL(dBA)",In the car (if you have one),43.6
+11/1/2023 16:07:36,iPhone (all models),1-12,"Sound pressure level, SPL(dBA)",In the car (if you have one),132.5
+11/1/2023 23:25:29,iPhone (all models),2,"Sound pressure level, SPL(dBA)",In the car (if you have one),35.3
+11/2/2023 17:25:00,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",In the car (if you have one),54
+11/3/2023 1:55:26,iPhone (all models),1-6,"Sound pressure level, SPL(dBA)",In the car (if you have one),28.6
+11/3/2023 13:05:00,Android (all models),2-3,"Sound pressure level, SPL(dBA)",In the car (if you have one),430
+11/3/2023 13:30:34,iPhone (all models),1-9,"Sound pressure level, SPL(dBA)",In the car (if you have one),31.8
+11/4/2023 23:04:39,Android (all models),2-3,"Sound pressure level, SPL(dBA)",In the car (if you have one),64.5
+11/6/2023 1:02:20,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",In the car (if you have one),46.2
+11/13/2023 14:11:04,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",In the car (if you have one),51
+11/13/2023 20:39:12,iPhone (all models),1-10,"Sound pressure level, SPL(dBA)",In the car (if you have one),67
+11/13/2023 22:32:22,Android (all models),2-7,"Sound pressure level, SPL(dBA)",In the car (if you have one),72.9
+11/13/2023 22:32:36,Android (all models),2-7,"Sound pressure level, SPL(dBA)",In the car (if you have one),69.4
+11/13/2023 22:32:49,Android (all models),2-7,"Sound pressure level, SPL(dBA)",In the car (if you have one),71.4
+11/14/2023 14:59:42,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",In the car (if you have one),30
+11/15/2023 16:20:28,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)",In the car (if you have one),51.7
+11/15/2023 21:58:45,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)",In the car (if you have one),51.7
+11/16/2023 13:29:40,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",In the car (if you have one),70.2
+11/16/2023 15:42:10,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)",In the car (if you have one),28.2
+11/16/2023 16:32:47,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",In the car (if you have one),28.8
+11/16/2023 19:02:06,iPhone (all models),2-2,"Sound pressure level, SPL(dBA)",In the car (if you have one),59.7
+11/16/2023 23:22:06,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)",In the car (if you have one),58.5
+11/16/2023 23:22:23,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)",In the car (if you have one),78.6
+11/16/2023 23:54:16,Android (all models),2-9,"Sound pressure level, SPL(dBA)",In the car (if you have one),72.4
+10/24/2023 13:32:04,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,57
+10/25/2023 22:09:37,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,79.9
+10/27/2023 9:42:46,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,61.2
+11/1/2023 17:01:42,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,61.7
+11/2/2023 1:38:02,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,62.8
+11/2/2023 17:24:39,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,58.2
+11/2/2023 23:36:23,Android (all models),1-9,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,77.5
+11/6/2023 1:01:43,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,73.7
+11/13/2023 14:08:29,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,61
+11/13/2023 20:38:57,iPhone (all models),1-10,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,62
+11/14/2023 14:59:10,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,47.8
+11/16/2023 13:29:08,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,60.6
+11/16/2023 16:32:30,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Cloudy,43.1
+10/25/2023 22:09:01,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,58.3
+10/26/2023 14:07:18,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,55.1
+10/26/2023 16:16:46,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,48.7
+10/27/2023 9:42:23,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,60.2
+10/27/2023 12:23:06,Android (all models),1-16,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,67
+10/27/2023 16:58:53,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,52.5
+11/2/2023 17:24:25,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,60.9
+11/2/2023 23:36:09,Android (all models),1-9,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,79
+11/4/2023 23:05:46,Android (all models),2-3,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,73.8
+11/13/2023 14:07:56,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,41
+11/13/2023 20:38:38,iPhone (all models),1-10,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,57
+11/13/2023 22:29:33,Android (all models),2-7,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,52.3
+11/13/2023 22:30:13,Android (all models),2-7,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,57.4
+11/13/2023 22:30:33,Android (all models),2-7,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,54.7
+11/14/2023 14:58:38,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,58.9
+11/16/2023 13:28:50,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,61.2
+11/16/2023 14:54:32,iPhone (all models),2-11,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,55
+11/16/2023 16:32:00,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,58
+11/16/2023 19:01:38,iPhone (all models),2-2,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,77.8
+11/16/2023 23:21:55,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,63.5
+11/16/2023 23:52:23,Android (all models),2-9,"Sound pressure level, SPL(dBA)",Outdoors by GIX: Sunny,40.6
+10/23/2023 21:41:15,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",your bed at night,43.2
+10/25/2023 22:07:01,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",your bed at night,26.7
+10/26/2023 18:20:47,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",your bed at night,28.7
+10/27/2023 9:40:14,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",your bed at night,34.3
+10/27/2023 16:58:05,iPhone (all models),1-8,"Sound pressure level, SPL(dBA)",your bed at night,55
+10/31/2023 23:54:10,iPhone (all models),1-16,"Sound pressure level, SPL(dBA)",your bed at night,66.1
+11/1/2023 16:59:32,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)",your bed at night,31.8
+11/1/2023 20:31:31,iPhone (all models),1-7,"Sound pressure level, SPL(dBA)",your bed at night,30.3
+11/2/2023 1:37:07,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)",your bed at night,46.2
+11/2/2023 17:23:36,iPhone (all models),1-3,"Sound pressure level, SPL(dBA)",your bed at night,35.7
+11/2/2023 23:34:56,iPhone (all models),1-9,"Sound pressure level, SPL(dBA)",your bed at night,31.7
+11/3/2023 11:47:27,Android (all models),2-3,"Sound pressure level, SPL(dBA)",your bed at night,35
+11/6/2023 0:58:46,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",your bed at night,28.9
+11/13/2023 12:18:46,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",your bed at night,21
+11/13/2023 22:22:57,Android (all models),2-7,"Sound pressure level, SPL(dBA)",your bed at night,36.6
+11/13/2023 22:23:16,Android (all models),2-7,"Sound pressure level, SPL(dBA)",your bed at night,37.8
+11/14/2023 14:43:01,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",your bed at night,31.5
+11/15/2023 16:18:28,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)",your bed at night,27.8
+11/16/2023 13:27:21,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",your bed at night,36.5
+11/16/2023 15:37:40,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)",your bed at night,40.5
+11/16/2023 23:21:14,iPhone (all models),1-5,"Sound pressure level, SPL(dBA)",your bed at night,44.6
+11/16/2023 23:50:01,Android (all models),2-9,"Sound pressure level, SPL(dBA)",your bed at night,32.1
+10/24/2023 9:42:02,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",Your desk at home,35.1
+10/25/2023 22:08:39,iPhone (all models),1-4,"Sound pressure level, SPL(dBA)",Your desk at home,41.3
+10/26/2023 18:21:15,iPhone (all models),1-15,"Sound pressure level, SPL(dBA)",Your desk at home,43.7
+10/27/2023 9:41:22,iPhone (all models),1-14,"Sound pressure level, SPL(dBA)",Your desk at home,36.5
+10/29/2023 23:45:51,iPhone (all models),1-12,"Sound pressure level, SPL(dBA)",Your desk at home,44.3
+10/31/2023 23:56:43,iPhone (all models),1-16,"Sound pressure level, SPL(dBA)",Your desk at home,63.5
+11/1/2023 16:07:12,iPhone (all models),1-12,"Sound pressure level, SPL(dBA)",Your desk at home,52.4
+11/1/2023 17:00:57,iPhone (all models),2-8,"Sound pressure level, SPL(dBA)",Your desk at home,42
+11/1/2023 23:24:36,iPhone (all models),2,"Sound pressure level, SPL(dBA)",Your desk at home,38.6
+11/2/2023 1:36:17,iPhone (all models),2-5,"Sound pressure level, SPL(dBA)",Your desk at home,44.6
+11/2/2023 23:35:54,iPhone (all models),1-9,"Sound pressure level, SPL(dBA)",Your desk at home,32.5
+11/4/2023 18:16:31,iPhone (all models),2-4,"Sound pressure level, SPL(dBA)",Your desk at home,27.9
+11/4/2023 23:03:36,Android (all models),2-3,"Sound pressure level, SPL(dBA)",Your desk at home,50.3
+11/6/2023 1:00:17,iPhone (all models),2-13,"Sound pressure level, SPL(dBA)",Your desk at home,33.1
+11/13/2023 14:07:14,iPhone (all models),2-9,"Sound pressure level, SPL(dBA)",Your desk at home,41
+11/13/2023 20:38:12,iPhone (all models),1-10,"Sound pressure level, SPL(dBA)",Your desk at home,29
+11/14/2023 14:46:25,iPhone (all models),1-1,"Sound pressure level, SPL(dBA)",Your desk at home,53.1
+11/15/2023 16:19:57,iPhone (all models),1-13,"Sound pressure level, SPL(dBA)",Your desk at home,40.6
+11/16/2023 13:28:29,iPhone (all models),2-6,"Sound pressure level, SPL(dBA)",Your desk at home,44.3
+11/16/2023 15:39:34,iPhone (all models),1-11,"Sound pressure level, SPL(dBA)",Your desk at home,42.7
+11/16/2023 16:31:39,iPhone (all models),2-1,"Sound pressure level, SPL(dBA)",Your desk at home,52.3
+11/16/2023 23:51:04,Android (all models),2-9,"Sound pressure level, SPL(dBA)",Your desk at home,33.2
